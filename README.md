@@ -1,4 +1,3 @@
-<img width="571" alt="PlotExplain" src="https://user-images.githubusercontent.com/30057649/210231470-e64fef08-a724-4b24-b641-8104960c4562.png">
 # Capstone_Cpp_Snake_Game
 
 # Udacity C++ Nanodegree Capstone Snake Game
@@ -31,7 +30,8 @@ The poject chosen was the snake game that was provided as the starter code provi
 ## Code Criterion
 
 Please check on PlotExplain.png for what have been added and how they flow
-![plot](PlotExplain.png)
+![plot]
+<img width="571" alt="PlotExplain" src="https://user-images.githubusercontent.com/30057649/210231470-e64fef08-a724-4b24-b641-8104960c4562.png">
 
 1. Loops, Function and I&O
 
