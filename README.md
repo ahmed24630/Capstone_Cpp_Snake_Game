@@ -6,8 +6,7 @@
 
 This is the final capstone project in the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). 
 
-The poject chosen was the snake game that was provided as the starter code provided by udacity in this [repo] (https://github.com/udacity/CppND-Capstone-Snake-Game) and inspired by [th![snake_game](https://user-images.githubusercontent.com/30057649/210230966-9e5f965d-d853-4483-964b-60229e696532.gif)
-is](https://codereview.stackexchange.com/questions/212296/snake-game-in-c-with-sdl) StackOverflow post.
+The poject chosen was the snake game that was provided as the starter code provided by udacity in this [repo] (https://github.com/udacity/CppND-Capstone-Snake-Game) and inspired by [th![snake_game]is](https://codereview.stackexchange.com/questions/212296/snake-game-in-c-with-sdl) StackOverflow post.
 
 <img src="snake_game.gif"/>
 
